@@ -1,0 +1,40 @@
+GOOGLE_API_KEY="AIzaSyAOAmNLECPJUJwy6jGJesywi71OR07G8VY"
+GROQ_API_KEY="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"
+
+
+GeNAI - self learning: 
+AI - LangChain
+https://www.youtube.com/watch?v=qbPhz1DkANo
+
+NLP:
+https://www.youtube.com/playlist?list=PLTDARY42LDV67aWThoZxflLYGnD3Rh3VG
+
+Google project: WP-Marketing-CDP (wp-marketing-cdp-467008)
+Google API Key: AIzaSyAOAmNLECPJUJwy6jGJesywi71OR07G8VY
+
+Groq: logged in using github - sanyamkumar@gmail.com/ Github@560077 
+https://console.groq.com/keys
+groq_ai_testing
+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
+https://console.groq.com/playground
+
+openai keys: 
+
+
+uv installer
+uv package manager is an extremely fast Python package and project manager, written in Rust.
+
+Installing UV: 
+go to vscode -> powershell run cmd: powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+
+output: 
+To add C:\Users\E6001541\.local\bin to your PATH, either restart your shell or run:
+
+    set Path=C:\Users\E6001541\.local\bin;%Path%   (cmd)
+    $env:Path = "C:\Users\E6001541\.local\bin;$env:Path"   (powershell)
+
+
+pwoershell cmd: 
+New-Item -Type File -Path $PROFILE -Force
+Directory: C:\Users\E6001541\OneDrive - FIS\Documents\WindowsPowerShell
+Microsoft.PowerShell_profile.ps1
